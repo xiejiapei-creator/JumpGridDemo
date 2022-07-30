@@ -1,0 +1,51 @@
+{
+  "path": {
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_die.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_die.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_down.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_down.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_hurt.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_hurt.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_idle.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_idle.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_walk.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_walk.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_skel.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_skel_ibm.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_mesh_helmet.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_02.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_mesh.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_attack.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_attack.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_run.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_run.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_jump.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_jump.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_squat.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_squat.bin"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_shoot.gltf": [
+      "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_shoot.bin"
+    ]
+  },
+  "uuid": {
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "arm64",
+        "cpu": "Apple M1 Pro",
+        "version": "Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_ARM64_T6000"
+    },
+    "sceneListMap": {
+        "6962d389-b02c-41bc-937c-43c2f47d6fbc": "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scenes/Main.scene"
+    },
+    "deviceMd5": "483fe09798488f2d8da1e3df144600b8"
+}

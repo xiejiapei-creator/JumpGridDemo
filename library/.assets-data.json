@@ -1,0 +1,198 @@
+{
+  "4467faba-2da9-4cce-88b9-b4680909c97b": {
+    "url": "db://assets/Animations",
+    "value": {}
+  },
+  "aebb133c-99a8-446b-909e-12679d83a884": {
+    "url": "db://assets/Prefabs",
+    "value": {}
+  },
+  "fb3c51e5-0f53-479f-9612-638350748401": {
+    "url": "db://assets/Scenes",
+    "value": {}
+  },
+  "537d3fb8-d822-4a66-8277-c8634e652b43": {
+    "url": "db://assets/Scipts",
+    "value": {}
+  },
+  "d8da52c6-0127-41a6-9611-3c7718363db2": {
+    "url": "db://assets/cocos",
+    "value": {}
+  },
+  "f9cd731b-eb01-4aa7-9da2-483235277649": {
+    "url": "db://assets/Animations/oneStep.anim",
+    "value": {}
+  },
+  "8868942f-9687-4d66-a73a-14e2a99047ff": {
+    "url": "db://assets/Animations/twoStep.anim",
+    "value": {}
+  },
+  "eb7138f8-eb1f-433e-ae2c-77ff499c8e14": {
+    "url": "db://assets/Prefabs/Cube.prefab",
+    "value": {}
+  },
+  "6962d389-b02c-41bc-937c-43c2f47d6fbc": {
+    "url": "db://assets/Scenes/Main.scene",
+    "value": {}
+  },
+  "326d60ed-0e36-4fc4-9e12-c13315b9801e": {
+    "url": "db://assets/Scipts/GameManager.ts",
+    "value": {}
+  },
+  "ddfb1b64-cb1f-4112-ac8c-ef199f1390db": {
+    "url": "db://assets/Scipts/PlayerController.ts",
+    "value": {}
+  },
+  "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435": {
+    "url": "db://assets/cocos/Cocos.prefab",
+    "value": {}
+  },
+  "75b08e51-53d1-4bca-b3de-ad7713d25d2c": {
+    "url": "db://assets/cocos/animations",
+    "value": {}
+  },
+  "58cf3db3-e6f4-4943-a076-26157912429c": {
+    "url": "db://assets/cocos/body.mtl",
+    "value": {}
+  },
+  "5bee9f0c-9771-4e73-b0ea-0bbb6da67698": {
+    "url": "db://assets/cocos/cocos_mesh.gltf",
+    "value": {}
+  },
+  "fb9825a0-fd7f-48c5-b121-9af90f9f2011": {
+    "url": "db://assets/cocos/cocos_mesh_helmet.gltf",
+    "value": {}
+  },
+  "90f86573-5baf-41e2-97db-8604d1f42b65": {
+    "url": "db://assets/cocos/cocos_skel.gltf",
+    "value": {}
+  },
+  "8d2d3098-6841-41fc-af7f-4bac9e32b080": {
+    "url": "db://assets/cocos/cocos_skel_ibm.bin",
+    "value": {}
+  },
+  "b9ab6374-4e67-4db2-bb75-0256c62f6c7b": {
+    "url": "db://assets/cocos/cocos_squat_anim.bin",
+    "value": {}
+  },
+  "b3df5b21-2fe6-410e-a10d-3df317e61bb5": {
+    "url": "db://assets/cocos/cocosfinish_01.bin",
+    "value": {}
+  },
+  "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed": {
+    "url": "db://assets/cocos/cocosfinish_01_baseColor.png",
+    "value": {}
+  },
+  "026c4a15-e07d-4053-86de-9f9fe30188e5": {
+    "url": "db://assets/cocos/cocosfinish_01_emissive.png",
+    "value": {}
+  },
+  "3af9be2f-93d2-41a0-b7b7-3cc03054b34a": {
+    "url": "db://assets/cocos/cocosfinish_01_normal.png",
+    "value": {}
+  },
+  "64b1edbd-75c7-4159-a65a-f1e6d8c9812a": {
+    "url": "db://assets/cocos/cocosfinish_01_occlusionRoughnessMetallic.png",
+    "value": {}
+  },
+  "dcab7d1f-201e-45d8-911c-833cc5427723": {
+    "url": "db://assets/cocos/cocosfinish_02.bin",
+    "value": {}
+  },
+  "8949c1f1-9b2b-418c-b150-611a94543416": {
+    "url": "db://assets/cocos/cocosfinish_02_baseColor.png",
+    "value": {}
+  },
+  "19819162-ce3f-4f7c-8889-8b2f35bf274c": {
+    "url": "db://assets/cocos/cocosfinish_02_normal.png",
+    "value": {}
+  },
+  "cd618de5-59fc-4899-ba4f-55195f3e24ce": {
+    "url": "db://assets/cocos/cocosfinish_02_occlusionRoughnessMetallic.png",
+    "value": {}
+  },
+  "7e81a899-6c7c-493d-80cf-e4f730e4f48f": {
+    "url": "db://assets/cocos/helmet.mtl",
+    "value": {}
+  },
+  "73443895-6d8f-41b5-8e3f-4110d0f4dc31": {
+    "url": "db://assets/cocos/animations/cocos_anim_attack.bin",
+    "value": {}
+  },
+  "a873a742-b503-4a96-8570-6fe542697035": {
+    "url": "db://assets/cocos/animations/cocos_anim_attack.gltf",
+    "value": {}
+  },
+  "d1a7cd09-b5d9-422f-a4f3-112d85f1059c": {
+    "url": "db://assets/cocos/animations/cocos_anim_die.bin",
+    "value": {}
+  },
+  "caf172df-03b7-4c5a-8a53-93f3e4be5146": {
+    "url": "db://assets/cocos/animations/cocos_anim_die.gltf",
+    "value": {}
+  },
+  "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314": {
+    "url": "db://assets/cocos/animations/cocos_anim_down.bin",
+    "value": {}
+  },
+  "27ac412c-9efa-4ead-8e2c-fe6533c7878f": {
+    "url": "db://assets/cocos/animations/cocos_anim_down.gltf",
+    "value": {}
+  },
+  "a1efb6ff-ef74-4037-8801-d310eca22fd5": {
+    "url": "db://assets/cocos/animations/cocos_anim_hurt.bin",
+    "value": {}
+  },
+  "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1": {
+    "url": "db://assets/cocos/animations/cocos_anim_hurt.gltf",
+    "value": {}
+  },
+  "e9d41da7-da95-4119-8a6c-0937de2adb57": {
+    "url": "db://assets/cocos/animations/cocos_anim_idle.bin",
+    "value": {}
+  },
+  "445d5d9d-c56b-4528-bc90-c847357e5d94": {
+    "url": "db://assets/cocos/animations/cocos_anim_idle.gltf",
+    "value": {}
+  },
+  "33a7dcc9-4eed-4d49-baac-d190c3d2a157": {
+    "url": "db://assets/cocos/animations/cocos_anim_jump.bin",
+    "value": {}
+  },
+  "501da3c5-f2d8-45f7-bc04-5130d58811ff": {
+    "url": "db://assets/cocos/animations/cocos_anim_jump.gltf",
+    "value": {}
+  },
+  "f1d8a0c8-d2d8-473f-a769-803842978f68": {
+    "url": "db://assets/cocos/animations/cocos_anim_run.bin",
+    "value": {}
+  },
+  "50735e20-7211-4e9c-b676-4d648cdc0cbb": {
+    "url": "db://assets/cocos/animations/cocos_anim_run.gltf",
+    "value": {}
+  },
+  "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026": {
+    "url": "db://assets/cocos/animations/cocos_anim_shoot.bin",
+    "value": {}
+  },
+  "1cf73293-3e10-49c1-bfa1-59daaadbd18b": {
+    "url": "db://assets/cocos/animations/cocos_anim_shoot.gltf",
+    "value": {}
+  },
+  "7290f264-a898-4355-8041-8514dbd0051f": {
+    "url": "db://assets/cocos/animations/cocos_anim_squat.bin",
+    "value": {}
+  },
+  "58c9fdbf-de49-4141-83fa-9ad83f78591c": {
+    "url": "db://assets/cocos/animations/cocos_anim_squat.gltf",
+    "value": {}
+  },
+  "e08b2140-55f5-4d1f-af55-565183504a80": {
+    "url": "db://assets/cocos/animations/cocos_anim_walk.bin",
+    "value": {}
+  },
+  "b1cb32e6-c8c9-40c9-9d52-119dae416b32": {
+    "url": "db://assets/cocos/animations/cocos_anim_walk.gltf",
+    "value": {}
+  }
+}

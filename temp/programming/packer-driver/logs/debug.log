@@ -1,0 +1,1357 @@
+debug: Fri, 29 Jul 2022 17:34:30 GMT
+debug: Project: /Users/xiejiapei/Documents/3D Game/Jump
+debug: Targets: editor,preview
+debug: [PackerDriver] Options doesn't match.
+Last: {
+  "version": "19",
+  "config": {
+    "useDefineForClassFields": true,
+    "allowDeclareFields": true,
+    "loose": true,
+    "exportsConditions": [
+      "browser"
+    ],
+    "guessCommonJsExports": false
+  }
+}
+Current: {
+  "version": "5",
+  "config": {
+    "useDefineForClassFields": true,
+    "allowDeclareFields": true,
+    "loose": true,
+    "guessCommonJsExports": false
+  }
+}
+debug: Clearing out the targets...
+debug: Engine path: /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/xiejiapei/Documents/3D Game/Jump/temp/programming/packer-driver/targets/editor/main-record.json'
+debug: Loading cache costs 0.16600000858306885ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/xiejiapei/Documents/3D Game/Jump/temp/programming/packer-driver/targets/preview/main-record.json'
+debug: Loading cache costs 0.13975000381469727ms.
+debug: Sync engine features: 2d,3d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,skeletal-animation,spine,terrain,tiled-map,tween,ui,video,webview
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 9.938167095184326ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 198.3090000152588ms.
+debug: Target(preview) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-ammo from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-ammo.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/wait-for-ammo-instantiation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/wait-for-ammo-instantiation.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 100.31974995136261ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:01:51 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:22:00 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:36:14 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 65.33083307743073ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:01:51 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:22:00 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:36:14 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 51.04116702079773ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:01:51 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:02:57 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:36:14 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:36:41 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 47.98304200172424ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:01:51 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:02:57 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:36:14 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:36:41 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 45.56466603279114ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:02:57 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:06:42 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:36:41 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:41:00 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 37.63029193878174ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:02:57 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:06:42 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:36:41 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:41:00 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 37.276334047317505ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:06:42 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:06:56 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:41:00 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:41:18 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 27.108832955360413ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:06:42 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:06:56 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:41:00 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:41:18 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 41.2436249256134ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:06:56 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:08:34 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:41:18 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:42:37 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 37.777708888053894ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:06:56 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:08:34 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:41:18 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:42:37 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 34.998417019844055ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:08:34 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:10:36 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:42:37 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:44:50 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 32.79304099082947ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:08:34 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:10:36 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:42:37 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 01:44:50 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 34.30754196643829ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:10:36 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:30:40 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Mon Feb 07 2022 22:00:08 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 02:04:51 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 46.30954205989838ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:10:36 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:30:40 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Mon Feb 07 2022 22:00:08 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 02:04:51 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 37.46312499046326ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:30:40 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 12:52:56 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 02:04:51 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 02:14:43 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 53.066874980926514ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:30:40 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 12:52:56 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 02:04:51 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 02:14:43 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 44.73549997806549ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 12:52:56 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 12:55:18 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 02:14:43 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 06:29:17 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 28.223999977111816ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 12:52:56 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 12:55:18 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 02:14:43 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 06:29:17 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 70.71287488937378ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 12:55:18 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:27:31 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 06:29:17 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:01:46 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:44:50 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 10:00:20 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 83.38737511634827ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 12:55:18 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:27:31 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 06:29:17 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:01:46 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 01:44:50 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 10:00:20 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 57.85137498378754ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:27:31 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:28:39 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:01:46 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:02:26 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 26.02791702747345ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:27:31 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:28:39 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:01:46 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:02:26 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 35.03129196166992ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:28:39 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:29:11 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:02:26 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:03:33 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 28.342582941055298ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:28:39 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:29:11 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:02:26 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:03:33 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 29.60462498664856ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:29:11 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:31:20 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:03:33 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:05:28 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 34.19854199886322ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:29:11 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:31:20 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:03:33 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:05:28 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 39.77412509918213ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:31:20 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:32:36 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:05:28 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:06:51 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 25.94320797920227ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:31:20 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:32:36 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:05:28 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:06:51 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 31.323041081428528ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:32:36 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:43:26 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:06:51 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:16:58 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 37.623417019844055ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:32:36 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:43:26 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:06:51 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:16:58 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 32.57758402824402ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:43:26 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:47:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:16:58 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:21:28 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 30.751625061035156ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:43:26 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 16:47:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:16:58 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:21:28 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 88.81400001049042ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:47:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:06:06 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:21:28 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:33:48 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 10:00:20 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 10:40:26 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 88.56212496757507ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:47:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:06:06 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:21:28 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:33:48 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 10:00:20 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 10:40:26 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 80.98408305644989ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:06:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:06:29 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:33:48 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:40:49 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 40.126333117485046ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:06:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:06:29 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:33:48 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:40:49 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 39.4174998998642ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:06:29 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:07:15 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:40:49 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:41:35 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 30.01099991798401ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:06:29 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:07:15 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:40:49 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:41:35 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 44.532459020614624ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:07:15 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:11:06 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:41:35 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:45:07 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 10:40:26 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 10:43:59 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 54.46504199504852ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:07:15 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:11:06 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:41:35 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:45:07 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 10:40:26 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 10:43:59 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 53.832082986831665ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:11:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:16:40 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:45:07 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:51:00 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 40.395874977111816ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:11:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:16:40 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:45:07 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:51:00 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 31.863625049591064ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:16:40 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:17:04 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:51:00 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:51:24 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 30.070249915122986ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:16:40 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:17:04 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:51:00 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:51:24 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 48.87045896053314ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:17:04 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:20:43 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:51:24 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:55:03 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 39.23858404159546ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:17:04 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:20:43 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:51:24 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:55:03 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 34.97216594219208ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:20:43 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:22:55 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:55:03 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:57:16 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 31.29170799255371ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:20:43 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:22:55 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:55:03 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 10:57:16 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 34.918208956718445ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:22:55 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:36:21 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:57:16 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 11:10:40 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 10:43:59 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 11:10:22 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 70.55308401584625ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:22:55 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 17:36:21 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 10:57:16 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 11:10:40 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 10:43:59 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 11:10:22 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 92.38616609573364ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:36:21 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:44:54 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 11:10:40 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 11:11:25 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 11:10:22 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 11:11:36 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 106.70175004005432ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 17:36:21 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:44:54 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 11:10:40 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 11:11:25 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 11:10:22 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 11:11:36 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 58.84175002574921ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:44:54 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:45:46 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 11:11:36 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:20:06 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 33.50083303451538ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:44:54 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:45:46 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 11:11:36 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:20:06 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 37.075250029563904ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:45:46 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:48:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:20:06 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:22:26 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 50.08924996852875ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:45:46 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:48:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:20:06 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:22:26 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 35.77995800971985ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:48:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:51:02 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:22:26 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:25:11 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 69.19654095172882ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:48:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:51:02 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:22:26 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:25:11 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 52.207208037376404ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:51:02 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:51:58 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:25:11 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:26:04 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 32.44462502002716ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:51:02 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:51:58 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:25:11 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:26:04 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 30.0575829744339ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:51:58 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:52:22 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 11:11:25 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:26:26 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 44.049084067344666ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:51:58 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:52:22 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 11:11:25 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:26:26 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 44.136374950408936ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:52:22 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:52:49 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:26:26 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:27:05 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:26:04 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:27:10 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 100.328125ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:52:22 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:52:49 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:26:26 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:27:05 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:26:04 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:27:10 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 66.28779208660126ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:52:49 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:53:08 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:27:05 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:27:29 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:27:10 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:27:27 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 53.54799997806549ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:52:49 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:53:08 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:27:05 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:27:29 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:27:10 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:27:27 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 53.36491596698761ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:53:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:54:25 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:27:29 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:28:42 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 54.928500056266785ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:53:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:54:25 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:27:29 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:28:42 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 52.83704197406769ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:54:25 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:55:52 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:28:42 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:30:07 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 56.670000076293945ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:54:25 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:55:52 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:28:42 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:30:07 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 47.902125000953674ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:55:52 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:59:46 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:27:27 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:34:06 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 71.18133306503296ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:55:52 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 23:59:46 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:27:27 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:34:06 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 42.302417039871216ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:59:46 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:00:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:34:06 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:34:27 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 30.260499954223633ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 23:59:46 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:00:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:34:06 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 17:34:27 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 37.975250005722046ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:00:07 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:02:55 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:30:07 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:37:11 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 52.505499958992004ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:00:07 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:02:55 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:30:07 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:37:11 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 43.17633402347565ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:02:55 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:03:33 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:37:11 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:37:56 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 31.30525004863739ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:02:55 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:03:33 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:37:11 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:37:56 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 51.50170910358429ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:03:33 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:07:14 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:37:56 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:41:35 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 52.90425002574921ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:03:33 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:07:14 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:37:56 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:41:35 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 38.51466703414917ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:07:14 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:12:51 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:41:35 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:46:49 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 39.45258295536041ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:07:14 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:12:51 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:41:35 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:46:49 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 31.866708040237427ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:12:51 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:20:05 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:46:49 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:52:44 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 30.257500052452087ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:12:51 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 00:20:05 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts. Last mtime: Sat Jul 30 2022 17:46:49 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e, Current mtime: Sat Jul 30 2022 17:52:44 GMT+0800 (中国标准时间)@326d60ed-0e36-4fc4-9e12-c13315b9801e
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as cce:/internal/x/cc.
+debug: Resolve ./PlayerController from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 32.35379195213318ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:20:05 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 01:04:30 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:34:27 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 18:38:32 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 48.544166922569275ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 00:20:05 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 01:04:31 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 17:34:27 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 18:38:32 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 46.20133292675018ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 01:04:30 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 01:06:34 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 18:38:32 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 18:40:33 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 21.74941599369049ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 01:04:31 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 01:06:34 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 18:38:32 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 18:40:33 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 24.893249988555908ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 01:06:34 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 01:11:29 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 18:40:33 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 18:45:04 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(editor) ends with cost 24.124917030334473ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Fri Jan 02 1970 01:06:34 GMT+0800 (中国标准时间), Current mtime: Fri Jan 02 1970 01:11:29 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/GameManager.ts.
+debug: Detected change: file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts. Last mtime: Sat Jul 30 2022 18:40:33 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db, Current mtime: Sat Jul 30 2022 18:45:04 GMT+0800 (中国标准时间)@ddfb1b64-cb1f-4112-ac8c-ef199f1390db
+debug: Inspect file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts from cce:/internal/x/prerequisite-imports as file:///Users/xiejiapei/Documents/3D%20Game/Jump/assets/Scipts/PlayerController.ts.
+debug: Target(preview) ends with cost 23.64287507534027ms.

@@ -1,0 +1,397 @@
+{
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Animations.meta": {
+    "time": 1644242408000
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Animations/oneStep.anim.meta": {
+    "time": 1659116073784.7988
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Animations/twoStep.anim.meta": {
+    "time": 1659116073785.7068
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Prefabs.meta": {
+    "time": 1644242408000
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Prefabs/Cube.prefab.meta": {
+    "time": 1659116073777.8115
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scenes.meta": {
+    "time": 1644242408000
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scenes/Main.scene.meta": {
+    "time": 1659116073778.7773
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scipts.meta": {
+    "time": 1644242408000
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scipts/GameManager.ts.meta": {
+    "time": 1659116073383.1265
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scipts/PlayerController.ts.meta": {
+    "time": 1659116073385.3408
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos.meta": {
+    "time": 1644242408000
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/Cocos.prefab.meta": {
+    "time": 1659116073786.8188
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations.meta": {
+    "time": 1644242408000
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_attack.gltf.meta": {
+    "time": 1659116073961.4812
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_die.gltf.meta": {
+    "time": 1659116074012.9624
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_down.gltf.meta": {
+    "time": 1659116074020.2217
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_hurt.gltf.meta": {
+    "time": 1659116074036.9062
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_idle.gltf.meta": {
+    "time": 1659116074072.5513
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_jump.gltf.meta": {
+    "time": 1659116074119.492
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_run.gltf.meta": {
+    "time": 1659116074136.533
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_shoot.gltf.meta": {
+    "time": 1659116074147.723
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_squat.gltf.meta": {
+    "time": 1659116074184.2505
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_walk.gltf.meta": {
+    "time": 1659116074189.152
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/body.mtl.meta": {
+    "time": 1659116073790.953
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_mesh.gltf.meta": {
+    "time": 1659116073892.977
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_mesh_helmet.gltf.meta": {
+    "time": 1659116073894.4224
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_skel.gltf.meta": {
+    "time": 1659116073890.1924
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/helmet.mtl.meta": {
+    "time": 1659116073908.5056
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_attack.bin.meta": {
+    "time": 1659116073909.4636
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_die.bin.meta": {
+    "time": 1659116073924.9497
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_down.bin.meta": {
+    "time": 1659116073948.9475
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_hurt.bin.meta": {
+    "time": 1659116073963.5195
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_idle.bin.meta": {
+    "time": 1659116074018.339
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_jump.bin.meta": {
+    "time": 1659116074066.2673
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_run.bin.meta": {
+    "time": 1659116074065.4915
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_shoot.bin.meta": {
+    "time": 1659116074106.379
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_squat.bin.meta": {
+    "time": 1659116074124.5142
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_walk.bin.meta": {
+    "time": 1659116074149.1409
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_skel_ibm.bin.meta": {
+    "time": 1659116073888.1338
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_squat_anim.bin.meta": {
+    "time": 1659116073891.0862
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01.bin.meta": {
+    "time": 1659116073895.8582
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01_baseColor.png.meta": {
+    "time": 1659116073899.8723
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01_emissive.png.meta": {
+    "time": 1659116073900.6995
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01_normal.png.meta": {
+    "time": 1659116073904.8145
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1659116073903.5925
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_02.bin.meta": {
+    "time": 1659116073901.276
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_02_baseColor.png.meta": {
+    "time": 1659116073911.8557
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_02_normal.png.meta": {
+    "time": 1659116073913.7017
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1659116073910.7627
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Animations": {
+    "time": 1644242408000,
+    "uuid": "4467faba-2da9-4cce-88b9-b4680909c97b",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Prefabs": {
+    "time": 1644242408000,
+    "uuid": "aebb133c-99a8-446b-909e-12679d83a884",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scenes": {
+    "time": 1644242408000,
+    "uuid": "fb3c51e5-0f53-479f-9612-638350748401",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scipts": {
+    "time": 1644242408000,
+    "uuid": "537d3fb8-d822-4a66-8277-c8634e652b43",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scipts/GameManager.ts": {
+    "time": 1659174764954.5457,
+    "uuid": "326d60ed-0e36-4fc4-9e12-c13315b9801e",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scipts/PlayerController.ts": {
+    "time": 1659177904373.6362,
+    "uuid": "ddfb1b64-cb1f-4112-ac8c-ef199f1390db",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos": {
+    "time": 1644242408000,
+    "uuid": "d8da52c6-0127-41a6-9611-3c7718363db2",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Animations/twoStep.anim": {
+    "time": 1659116073596.7073,
+    "uuid": "8868942f-9687-4d66-a73a-14e2a99047ff",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Animations/oneStep.anim": {
+    "time": 1659116073596.0598,
+    "uuid": "f9cd731b-eb01-4aa7-9da2-483235277649",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations": {
+    "time": 1644242408000,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Prefabs/Cube.prefab": {
+    "time": 1659116073409.2354,
+    "uuid": "eb7138f8-eb1f-433e-ae2c-77ff499c8e14",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/Cocos.prefab": {
+    "time": 1659116073777.9988,
+    "uuid": "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/Scenes/Main.scene": {
+    "time": 1659173415023.3875,
+    "uuid": "6962d389-b02c-41bc-937c-43c2f47d6fbc",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_attack.gltf": {
+    "time": 1644242408000,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_die.gltf": {
+    "time": 1644242408000,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_down.gltf": {
+    "time": 1644242408000,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_hurt.gltf": {
+    "time": 1644242408000,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_idle.gltf": {
+    "time": 1644242408000,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_jump.gltf": {
+    "time": 1644242408000,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_run.gltf": {
+    "time": 1644242408000,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/body.mtl": {
+    "time": 1659116073788.0256,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_shoot.gltf": {
+    "time": 1644242408000,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_walk.gltf": {
+    "time": 1644242408000,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_squat.gltf": {
+    "time": 1644242408000,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/helmet.mtl": {
+    "time": 1659116073905.9465,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_attack.bin": {
+    "time": 1644242408000,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_die.bin": {
+    "time": 1644242408000,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_mesh.gltf": {
+    "time": 1644242408000,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_skel.gltf": {
+    "time": 1644242408000,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_mesh_helmet.gltf": {
+    "time": 1644242408000,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_down.bin": {
+    "time": 1644242408000,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_hurt.bin": {
+    "time": 1644242408000,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_idle.bin": {
+    "time": 1644242408000,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_jump.bin": {
+    "time": 1644242408000,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_run.bin": {
+    "time": 1644242408000,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_shoot.bin": {
+    "time": 1644242408000,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_walk.bin": {
+    "time": 1644242408000,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/animations/cocos_anim_squat.bin": {
+    "time": 1644242408000,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_skel_ibm.bin": {
+    "time": 1644242408000,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocos_squat_anim.bin": {
+    "time": 1644242408000,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01.bin": {
+    "time": 1644242408000,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_02.bin": {
+    "time": 1644242408000,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01_emissive.png": {
+    "time": 1644242408000,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01_baseColor.png": {
+    "time": 1644242408000,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1644242408000,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_01_normal.png": {
+    "time": 1644242408000,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_02_baseColor.png": {
+    "time": 1644242408000,
+    "uuid": "8949c1f1-9b2b-418c-b150-611a94543416",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_02_normal.png": {
+    "time": 1644242408000,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/cocos/cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1644242408000,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "/Users/xiejiapei/Documents/3D Game/Jump/assets/oneStep.anim.meta": {
+    "time": 1659115481303.1956
+  }
+}
